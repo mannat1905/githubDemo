@@ -1,4 +1,5 @@
 # githubDemo
+
 This is my first Git Repository.
 <br>
-Author - Mannat Sachdeva
+Author - Mannat Sachdeva (githubDemo)
